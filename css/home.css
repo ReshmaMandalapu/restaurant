@@ -1,0 +1,198 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+.nav{
+    width:100%;
+    background-color: rgb(36, 31, 31);
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    padding:5px;
+    align-items: center;
+    margin-right:5px;
+}
+.nav-logo{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    margin-right:30px;
+    object-fit: cover;
+}
+.logo{
+    align-items:center;
+    display: flex;
+}
+.name{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    margin-left:none;
+}
+ul{
+    display:flex;
+    margin:0px 8px;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-weight: bolder;
+    padding:5px 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.home-content{
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    background-color: orange;
+    padding:5px;
+}
+.home-h1{
+    font-size: 70px;
+    margin:20px;
+}
+.btn{
+    font-size: 23px;
+    border-radius: 40px;
+    background-color: blue;
+    padding:10px;
+    margin:20px;
+    color:white;
+}
+.btn:hover{
+    background-color: coral;
+}
+.home-img{
+    margin-top:50px;
+    height:400px;
+    weight:600px;
+    margin:20px;
+}
+.home-special{
+    background-color: cornsilk;
+    padding:5px 5px;
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+}
+.special{
+    color:brown;
+    background-color:cornsilk ;
+    margin-top: 0px;
+    padding-right: 5px;
+    margin-bottom:0px;
+    width:100%;
+}
+.special-child{
+    height:400px;
+    width:200px;
+    margin:20px;
+}
+.special-img{
+    height:300px;
+    width:100%;
+}
+.special-body{
+    align-items: center;
+}
+h3{
+    margin-top:0px;
+    margin-right:0px;
+    padding:0px 0px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.btns{
+    font-size: 20px;
+    border-radius: 40px;
+    background-color: blue;
+    padding:10px;
+    margin:10px;
+    color:white;
+} 
+.btns:hover{
+    background-color: coral;
+}
+.btn{
+    background-color: deeppink;
+}
+.btn:hover{
+    background-color: rgb(135, 75, 192);
+}
+.footer{
+    background-color: rgb(21, 21, 21);
+    display:flex;
+    justify-content: space-between;
+    padding:5px;
+    align-items: center;
+    color:rgba(255, 255, 255, 0.842);
+    width:100%;
+    
+}
+.child{
+    margin:20px;
+}
+h2{
+    text-decoration: underline;
+}
+.a1{
+    color:blue;
+    text-decoration: underline;
+}
+.bi-braces{
+    color:rgb(148, 33, 52);
+}
+.bi-cart4{
+    color:yellow;
+}
+.bi-google{
+    color:blue
+}
+.bi-apple{
+    color:red;
+}
+.bi-person-circle{
+    color:black;
+}
+.bi-person-circle{
+   color:coral;
+}
+.bi-telephone-fill{
+    color:coral;
+}
+.bi-phone-vibrate{
+    color:aqua;
+}
+.bi-heart-fill{
+    color:coral;
+}
+.bi-heart-pulse-fill{
+    color:coral;
+}
+.bi-geo-alt-fill{
+    color:coral;
+}
+.bi-twitter{
+    color:blue;
+}
+.bi-linkedin{
+    color:black;
+}
+.bi-instagram{
+    color:rgb(185, 16, 72);
+}
+.bi-facebook{
+    color:blueviolet;
+}
+.bi-house-door-fill{
+    color:coral;
+}
+.bi-file-person{
+     color:coral;
+}
+.bi-box-arrow-in-right{
+    color:coral;
+}
